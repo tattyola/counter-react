@@ -5,7 +5,7 @@ import Counter from "./components/Counter";
 function App() {
 
     const [counts, setCounts] = useState(0)
-    const logo = 'PASV'
+    const logo = 'Counter App'
 
     return (
         <div>
